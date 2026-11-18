@@ -21,7 +21,10 @@ REGISTER
             <option value="">Indonesia</option>
             <option value="">Jepang</option>
             <option value="">China</option>
+<<<<<<< HEAD
             <option value="">Korea</option>
+=======
+>>>>>>> 982488ffd1fdddf4cb99fbca59014bf6d5122f2f
             </select><br><br>
             <label> Language Spoken:</label><br><br>
             <input type="checkbox"> Bahasa Indonesia<br>
@@ -34,6 +37,11 @@ REGISTER
             <input type="submit" value="sign up">
             </form>
             </body>
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 982488ffd1fdddf4cb99fbca59014bf6d5122f2f
         </form>
 
     @endsection
